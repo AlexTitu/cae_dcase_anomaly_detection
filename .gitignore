@@ -1,0 +1,8 @@
+*.txt
+*.docx
+*.zip
+DeepSSM/
+deepstate/
+__pycache__/
+.idea/
+DCASE2024/
